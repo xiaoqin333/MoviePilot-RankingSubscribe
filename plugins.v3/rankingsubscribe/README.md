@@ -35,6 +35,9 @@ https://github.com/xiaoqin333/MoviePilot-RankingSubscribe/
 
 刷新插件市场后搜索“榜单自动订阅”并安装。
 
+若插件市场提示“所有插件已安装”，请切回“我的插件”；插件已安装时不会再次出现在
+可安装列表中。
+
 ### 手动安装 Release 包
 
 从 GitHub Releases 下载最新 `.zip`，解压到 MoviePilot 的插件目录：

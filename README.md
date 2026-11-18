@@ -40,7 +40,8 @@ https://github.com/xiaoqin333/MoviePilot-RankingSubscribe/
 
 ### 3. 安装插件
 
-刷新完成后搜索“榜单自动订阅”或插件 ID `RankingSubscribe`，点击安装并启用。
+刷新完成后，在插件市场右上方的搜索/筛选区域搜索“榜单自动订阅”或插件 ID
+`RankingSubscribe`，点击安装并启用。
 
 安装完成后，左侧“订阅”区域会出现“榜单订阅”入口。
 
@@ -92,6 +93,10 @@ https://github.com/xiaoqin333/MoviePilot-RankingSubscribe/
 - 检查 MoviePilot 容器能否访问 `github.com`；如使用代理，请确认插件市场请求没有被拦截。
 - 仓库应同时包含 `package.v3.json` 和 `plugins.v3/rankingsubscribe/`，当前仓库已按
   MoviePilot V3 插件源格式组织。
+- **如果插件已经安装**，插件市场可能显示“暂无数据 / 所有插件已安装”。这时切回
+  “我的插件”页面即可看到“榜单自动订阅”；左侧“订阅”区域也会出现“榜单订阅”入口。
+- 插件市场默认按热门度排序，新插件不在第一页。请使用插件市场顶部的搜索框，直接
+  搜索“榜单自动订阅”或 `RankingSubscribe`。
 
 ## 配置自己的榜单 API
 

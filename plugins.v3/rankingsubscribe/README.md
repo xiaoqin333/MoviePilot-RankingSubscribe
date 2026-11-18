@@ -3,6 +3,14 @@
 MoviePilot V3 榜单订阅插件。可浏览聚合影视榜单，单部或多选创建 MoviePilot
 原生订阅，也可按 Cron 周期自动订阅综艺、动漫等榜单。
 
+插件源地址：
+
+```text
+https://github.com/xiaoqin333/MoviePilot-RankingSubscribe/
+```
+
+把该地址加入 MoviePilot 的插件市场仓库列表，刷新后搜索“榜单自动订阅”即可安装。
+
 ## 功能
 
 - 支持 TMDB、豆瓣、爱奇艺、腾讯视频、优酷、芒果TV。
@@ -22,7 +30,7 @@ MoviePilot V3 榜单订阅插件。可浏览聚合影视榜单，单部或多选
 在 MoviePilot 的插件市场设置中添加本仓库地址：
 
 ```text
-https://github.com/xiaoqin333/MoviePilot-RankingSubscribe
+https://github.com/xiaoqin333/MoviePilot-RankingSubscribe/
 ```
 
 刷新插件市场后搜索“榜单自动订阅”并安装。

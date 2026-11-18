@@ -1,0 +1,44 @@
+
+.rank-config[data-v-40d3ce11] {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.config-intro[data-v-40d3ce11] {
+  display: flex;
+  align-items: flex-start;
+  padding: 16px;
+  border: 1px solid rgba(var(--v-theme-primary), 0.14);
+  border-radius: 16px;
+  background: linear-gradient(120deg, rgba(var(--v-theme-primary), 0.1), rgba(var(--v-theme-surface), 0.82));
+  gap: 12px;
+}
+.config-intro__icon[data-v-40d3ce11] {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 auto;
+  border-radius: 13px;
+  background: rgba(var(--v-theme-primary), 0.14);
+  color: rgb(var(--v-theme-primary));
+  place-items: center;
+}
+.config-intro h3[data-v-40d3ce11],
+.config-intro p[data-v-40d3ce11] {
+  margin: 0;
+}
+.config-intro h3[data-v-40d3ce11] {
+  font-size: 16px;
+  font-weight: 700;
+}
+.config-intro p[data-v-40d3ce11] {
+  margin-top: 4px;
+  color: rgba(var(--v-theme-on-surface), var(--v-medium-emphasis-opacity));
+  font-size: 12px;
+  line-height: 1.6;
+}
+.config-actions[data-v-40d3ce11] {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}

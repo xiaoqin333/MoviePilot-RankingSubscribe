@@ -1,0 +1,16 @@
+{
+  "RankingSubscribe": {
+    "name": "榜单自动订阅",
+    "description": "浏览聚合影视榜单，点击订阅单部影片，并按综艺、动漫等榜单定时自动订阅。",
+    "labels": "订阅,榜单,动漫,综艺",
+    "version": "1.1.0",
+    "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/movie.jpg",
+    "author": "xiaoqin333",
+    "level": 2,
+    "system_version": ">=3.0.0",
+    "history": {
+      "v1.0.0": "首个版本：全局榜单浏览、单部订阅、整榜/全来源批量订阅和定时自动订阅。",
+      "v1.1.0": "新增每页条数与翻页，支持多选影片并批量订阅。"
+    }
+  }
+}
